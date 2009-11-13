@@ -57,4 +57,4 @@ end
 
 ------------
 
-ime.register_command("my", "myFunc", "名人语录", "digit", "按任意键换一条")
+ime.register_command("my", "myFunc", "名人语录", "none", "按任意键换一条")
