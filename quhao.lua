@@ -3,7 +3,8 @@
 ------------------------------------------------
 -- 谷歌拼音区号查询扩展
 -- 版本: 0.1 unfinished
--- 作者: Liu Dongyuan
+-- 作者: Xhacker Liu
+-- 作者主页：http://xhacker.shiyiquan.cn/
 -- 项目主页: http://code.google.com/p/google-pinyin-api/
 --
 -- 简介: 查询区号（暂时只支持国内）
