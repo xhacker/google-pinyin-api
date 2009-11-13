@@ -3,7 +3,7 @@
 ------------------------------------------------
 -- 谷歌拼音名人语录扩展
 -- 版本: 0.2 pre
--- 项目主页: http://code.google.com/p/googlepinyin-plugins/
+-- 项目主页: http://code.google.com/p/google-pinyin-api/
 --
 -- 简介: 随机打出一些名人说过的话。
 --
