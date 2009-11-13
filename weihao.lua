@@ -3,7 +3,7 @@
 ------------------------------------------------
 -- 谷歌拼音北京尾号限行查询扩展
 -- 版本: 0.1 pre2
--- 项目主页: http://code.google.com/p/googlepinyin-plugins/
+-- 项目主页: http://code.google.com/p/google-pinyin-api/
 --
 -- 简介: 今天能开车吗？（在北京）
 --

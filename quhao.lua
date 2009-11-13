@@ -3,7 +3,7 @@
 ------------------------------------------------
 -- 谷歌拼音区号查询扩展
 -- 版本: 0.1 unfinished
--- 项目主页: http://code.google.com/p/googlepinyin-plugins/
+-- 项目主页: http://code.google.com/p/google-pinyin-api/
 --
 -- 简介: 查询区号（暂时只支持国内）
 --

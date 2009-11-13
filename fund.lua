@@ -5,7 +5,7 @@
 -- 版本: 0.1
 -- 作者：Yichen Lu
 -- 作者主页：http://yichenlu.cn/
--- 项目主页: http://code.google.com/p/googlepinyin-plugins/
+-- 项目主页: http://code.google.com/p/google-pinyin-api/
 --
 -- 此扩展遵循GPLv3发布
 ------------------------------------------------
