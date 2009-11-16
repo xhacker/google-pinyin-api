@@ -1,3 +1,14 @@
+-- encoding: UTF-8
+
+------------------------------------------------
+-- 谷歌拼音MOSFET基本公式速查扩展
+-- 作者: Mike
+-- 版本: 0.1
+-- 项目主页: http://code.google.com/p/google-pinyin-api/
+--
+-- 此扩展遵循GPLv3发布
+------------------------------------------------
+
 function mos(input)
    if #input== 0 then
     return { { suggest = "idsa", help = "Ids (Vds<Vgs-Vth)" },
