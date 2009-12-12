@@ -27,7 +27,7 @@ end
 ------------------
 
 function YichenLu_TagInput(arg)
-  args=arg:split("@")
+  args=arg:split("+")
   if args[1]== "" then
     error("Invalid argument")
   else
@@ -46,4 +46,4 @@ function YichenLu_TagInput(arg)
   end
 end
 ------
-ime.register_command("bj", "YichenLu_TagInput", "标记对", "digit", "输入任意字符串，得到标记对。使用@分割参数。")
+ime.register_command("bj", "YichenLu_TagInput", "标记对", "digit", "输入任意字符串，得到标记对。使用+分割参数。")
