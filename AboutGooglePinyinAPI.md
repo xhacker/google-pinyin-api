@@ -1,0 +1,1 @@
+点击查看[谷歌拼音API开发指南](http://www.google.com/ime/pinyin/api.html)
